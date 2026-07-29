@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+
+# Data / model artifacts (regenerable from notebooks)
+data/*.json
+*.pt
+*.safetensors
+
+# OS
+.DS_Store
+
+# Colab
+.config/
